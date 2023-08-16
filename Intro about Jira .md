@@ -37,4 +37,3 @@
 
 By effectively leveraging Jira Software's features, teams can seamlessly collaborate on different projects and efficiently manage their tasks, regardless of project nature or scope.
 
----
