@@ -54,4 +54,4 @@
 
 Remember that the exact steps might vary based on your Jira version, the project's configuration, and your team's setup. These steps are a general guideline, and Jira's user interface might have slight variations. Always refer to the specific Jira instance you're using for accurate instructions.
 
-Jira offers great flexibility for managing tasks, timelines, and collaboration. As you explore the tool further, you'll discover even more features to enhance your project management experience.
+https://university.atlassian.com/student/award/Ys1Dn3o8YzcbeY2PaPMZMiPo
