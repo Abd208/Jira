@@ -1,4 +1,3 @@
-
 # Introduction to Jira Software for Collaborative Project Management
 
 **Jira Software** is a widely used project management and issue tracking tool developed by Atlassian. It assists teams in efficiently planning, tracking, and managing their work collaboratively. While it's highly popular among software development teams, its versatility makes it suitable for various project types and team collaborations.
