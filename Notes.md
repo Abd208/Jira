@@ -23,7 +23,6 @@
   - Supports agile practices
   - Strong integration capabilities
 
----
 
 # Confluence
 
