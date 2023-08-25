@@ -46,7 +46,6 @@
   - User-friendly content creation
   - Integration with Atlassian tools
 
----
 
 # Slack
 
