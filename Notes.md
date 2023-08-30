@@ -15,7 +15,7 @@
   - Project management across industries
   - IT service desk management
   - Agile software development 
-
+ 
 - **Benefits:**
   - Streamlined project tracking and management
   - Increased transparency and collaboration
