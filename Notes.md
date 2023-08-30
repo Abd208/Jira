@@ -14,7 +14,7 @@
   - Software development and bug tracking
   - Project management across industries
   - IT service desk management
-  - Agile software development
+  - Agile software development 
 
 - **Benefits:**
   - Streamlined project tracking and management
