@@ -12,7 +12,7 @@
 
 6. **Save**: Click the "Create" or "Save" button to create the issue.
 
-## Setting Up Tasks:
+## Setting Up Tasks:  
 
 1. **Navigate to Board**: If you're using an Agile board, go to the board associated with your project.
 
