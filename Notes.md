@@ -4,7 +4,7 @@
 
 - **Key Features:**
   - **Issue Tracking:** Create, assign, prioritize, and track issues throughout their lifecycle.
-  - **Custom Workflows:** Define unique processes and workflows.
+  - **Custom Workflows:** Define unique processes and workflows. 
   - **Project Management:** Plan, allocate resources, and track progress.
   - **Agile and Scrum:** Support for Scrum and Kanban methodologies.
   - **Reporting:** Analyze project progress and make data-driven decisions.
