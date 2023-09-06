@@ -1,7 +1,7 @@
 ## Creating an Issue:
 
 1. **Log In**: Log in to your Jira account.
-
+ 
 2. **Select Project**: Choose the specific project where you want to create an issue.
 
 3. **Click Create**: Look for the "Create" button, often found at the top of the project page. Click it to start creating a new issue.
