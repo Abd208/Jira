@@ -9,7 +9,7 @@
   - **Agile and Scrum:** Support for Scrum and Kanban methodologies.
   - **Reporting:** Analyze project progress and make data-driven decisions.
   - **Integration:** Seamless integration with Confluence, Bitbucket, Slack, etc.
-
+ 
 - **Use Cases:**
   - Software development and bug tracking
   - Project management across industries
